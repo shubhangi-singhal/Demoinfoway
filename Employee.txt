@@ -1,4 +1,3 @@
 emp id=101;
 emp name=shubhangi;
-emp location=pune;
-emp address=krishna hospital;
+emp location=kothrud;
